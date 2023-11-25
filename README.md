@@ -11,7 +11,7 @@ Here are some of my key skills:
 
 - **Programming Languages:**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
-- <img src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="Java" width="50"/>
+- <img src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="Java" width="70"/>
 
 - **Data Technologies:**
   - ![Postgresql](https://www.postgresql.org/media/img/about/press/elephant.png){:width="50px"}
