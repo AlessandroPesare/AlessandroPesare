@@ -12,7 +12,7 @@ Here are some of my key skills:
 - **Programming Languages:**
   - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/>
   - <img src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="Java" width="80"/>
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="50"/>
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40"/>
 - **Data Technologies:**
     - <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40"/>
     - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Hadoop" width="95"/>
