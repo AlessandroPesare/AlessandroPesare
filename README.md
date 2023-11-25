@@ -14,9 +14,10 @@ Here are some of my key skills:
 - <img src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="Java" width="70"/>
 
 - **Data Technologies:**
-  - ![Postgresql](https://www.postgresql.org/media/img/about/press/elephant.png){:width="50px"}
-  - ![Hadoop](https://www.example.com/hadoop-logo.png)
+  - <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="70"/>
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Hadoop" width="30"/>
   - ![Spark](https://www.example.com/spark-logo.png)
+  - 
 
 - **Machine Learning:**
   - ![TensorFlow](https://www.example.com/tensorflow-logo.png) TensorFlow
