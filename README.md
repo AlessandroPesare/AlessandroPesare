@@ -10,15 +10,13 @@ Welcome to my GitHub profile!
 Here are some of my key skills:
 
 - **Programming Languages:**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
-- <img src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="Java" width="70"/>
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
+  - <img src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="Java" width="70"/>
 
 - **Data Technologies:**
-  - <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Hadoop" width="80"/>
-  - ![Spark](https://www.example.com/spark-logo.png)
-  - 
-
+    - <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Hadoop" width="90"/>
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="90"/>
 - **Machine Learning:**
   - ![TensorFlow](https://www.example.com/tensorflow-logo.png) TensorFlow
   - ![Scikit-Learn](https://www.example.com/scikit-learn-logo.png) Scikit-Learn
