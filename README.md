@@ -1,14 +1,16 @@
 # Hi there, I'm Alessandro 👋
 
-Welcome to my GitHub profile! I'm a master's student in computer engineering with a passion for Data Engineering and Machine Learning. I love exploring innovative solutions and contributing to the exciting world of technology.
-Based in Italy🌍
+Welcome to my GitHub profile!
+- I'm a Master's student in Computer Science Engineering with a passion for Data Engineering and Machine Learning.
+- I love exploring innovative solutions and contributing to the exciting world of technology💻.
+- Based in Italy🌍
 
 ## Skills
 
 Here are some of my key skills:
 
 - **Programming Languages:**
-  - ![Python](https://www.example.com/python-logo.png) Python
+  - ![Python]([https://www.example.com/python-logo.png](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)) Python
   - ![Java](https://www.example.com/java-logo.png) Java
 
 - **Data Technologies:**
