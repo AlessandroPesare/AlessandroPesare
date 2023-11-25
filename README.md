@@ -10,13 +10,13 @@ Welcome to my GitHub profile!
 Here are some of my key skills:
 
 - **Programming Languages:**
-  - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
-  - ![Java](https://www.example.com/java-logo.png) Java
+  - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg){:width="50px"}
+  - ![Java]([https://www.example.com/java-logo.png](https://logowik.com/content/uploads/images/java1655.logowik.com.webp)){:width="50px"}
 
 - **Data Technologies:**
-  - ![SQL](https://www.example.com/sql-logo.png) SQL
-  - ![Hadoop](https://www.example.com/hadoop-logo.png) Hadoop
-  - ![Spark](https://www.example.com/spark-logo.png) Apache Spark
+  - ![Postgresql](https://www.postgresql.org/media/img/about/press/elephant.png){:width="50px"}
+  - ![Hadoop](https://www.example.com/hadoop-logo.png)
+  - ![Spark](https://www.example.com/spark-logo.png)
 
 - **Machine Learning:**
   - ![TensorFlow](https://www.example.com/tensorflow-logo.png) TensorFlow
