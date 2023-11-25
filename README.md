@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hi there, I'm Alessandro 👋
+
+Welcome to my GitHub profile! I'm a master's student in computer engineering with a passion for Data Engineering and Machine Learning. I love exploring innovative solutions and contributing to the exciting world of technology.
+Based in Italy🌍
+
+## Skills
+
+Here are some of my key skills:
+
+- **Programming Languages:**
+  - ![Python](https://www.example.com/python-logo.png) Python
+  - ![Java](https://www.example.com/java-logo.png) Java
+
+- **Data Technologies:**
+  - ![SQL](https://www.example.com/sql-logo.png) SQL
+  - ![Hadoop](https://www.example.com/hadoop-logo.png) Hadoop
+  - ![Spark](https://www.example.com/spark-logo.png) Apache Spark
+
+- **Machine Learning:**
+  - ![TensorFlow](https://www.example.com/tensorflow-logo.png) TensorFlow
+  - ![Scikit-Learn](https://www.example.com/scikit-learn-logo.png) Scikit-Learn
 
 <!--
 **AlessandroPesare/AlessandroPesare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
