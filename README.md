@@ -21,7 +21,7 @@ Here are some of my key skills:
 - **Machine Learning:**
     - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="Tensorflow" width="80"/>
     - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikitlearn" width="80"/>
-    - <img src="https://keras.io/img/logo.png" alt="Keras" width="10"/>
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="10"/>
 
 <!--
 **AlessandroPesare/AlessandroPesare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
