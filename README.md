@@ -16,7 +16,8 @@ Here are some of my key skills:
 - **Data Technologies:**
     - <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
     - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Hadoop" width="90"/>
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="90"/>
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="50"/>
+
 - **Machine Learning:**
   - ![TensorFlow](https://www.example.com/tensorflow-logo.png) TensorFlow
   - ![Scikit-Learn](https://www.example.com/scikit-learn-logo.png) Scikit-Learn
