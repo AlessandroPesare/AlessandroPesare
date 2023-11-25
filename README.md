@@ -10,8 +10,8 @@ Welcome to my GitHub profile!
 Here are some of my key skills:
 
 - **Programming Languages:**
-  - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg){:width="50px"}
-  - ![Java]([https://www.example.com/java-logo.png](https://logowik.com/content/uploads/images/java1655.logowik.com.webp)){:width="50px"}
+  - ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+  - ![Java]([https://www.example.com/java-logo.png](https://logowik.com/content/uploads/images/java1655.logowik.com.webp))
 
 - **Data Technologies:**
   - ![Postgresql](https://www.postgresql.org/media/img/about/press/elephant.png){:width="50px"}
