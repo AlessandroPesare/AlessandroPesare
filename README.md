@@ -15,7 +15,7 @@ Here are some of my key skills:
 
 - **Data Technologies:**
   - <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50"/>
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Hadoop" width="50"/>
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Hadoop" width="80"/>
   - ![Spark](https://www.example.com/spark-logo.png)
   - 
 
