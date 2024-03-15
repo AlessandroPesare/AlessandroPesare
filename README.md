@@ -4,13 +4,13 @@ Welcome to my GitHub profile!
 - I'm a Master's student in Computer Science Engineering with a passion for Data Engineering and Machine Learning.
 - I love exploring innovative solutions and contributing to the exciting world of technology💻.
 - Based in Italy🌍
-- 
+
 ### Contact me
 
 You can contact me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-pesare-0a3650226/) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandropesare.ing@gmail.com)
-.
+
 
 ## Skills
 
