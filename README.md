@@ -9,7 +9,8 @@ Welcome to my GitHub profile!
 
 You can contact me on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-pesare-0a3650226/) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](alessandropesare.ing@gmail.com).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-pesare-0a3650226/) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandropesare.ing@gmail.com)
+.
 
 ## Skills
 
