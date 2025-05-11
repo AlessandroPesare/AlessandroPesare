@@ -28,7 +28,7 @@ Here are some of my key skills:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow" width="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40"/>
-<img src="https://commons.wikimedia.org/wiki/File:Pytorch-svgrepo-com.svg](https://upload.wikimedia.org/wikipedia/commons/9/99/Pytorch-svgrepo-com.svg" alt="Pytorch" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Pytorch-svgrepo-com.svg" alt="Pytorch" width="40"/>
 
 
 <!--
